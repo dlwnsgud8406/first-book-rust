@@ -1,5 +1,5 @@
-mod example_420;
+mod example_502;
 
 fn main() {
-    example_420::while_example();
+    example_502::anonymous();
 }
