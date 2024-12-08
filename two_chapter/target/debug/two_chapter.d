@@ -1,1 +1,1 @@
-/Users/ijunhyeong/Desktop/first-book-rust/two_chapter/target/debug/two_chapter: /Users/ijunhyeong/Desktop/first-book-rust/two_chapter/src/example_502.rs /Users/ijunhyeong/Desktop/first-book-rust/two_chapter/src/main.rs
+/Users/ijunhyeong/Desktop/first-book-rust/two_chapter/target/debug/two_chapter: /Users/ijunhyeong/Desktop/first-book-rust/two_chapter/src/example_601.rs /Users/ijunhyeong/Desktop/first-book-rust/two_chapter/src/main.rs

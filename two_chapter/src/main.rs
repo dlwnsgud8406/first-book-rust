@@ -1,5 +1,5 @@
-mod example_502;
+mod example_602;
 
 fn main() {
-    example_502::anonymous();
+    example_602::move_example();
 }
